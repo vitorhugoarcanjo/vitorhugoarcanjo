@@ -4,7 +4,7 @@
   <h3>Backend Developer | Python & Data Intelligence Specialist</h3>
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/vitor-hugo-arcanjo-73a776115/" target="_blank">
+    <a href="https://www.linkedin.com/in/vitor-hugo-arcanjo-dias-pereira-5919b5334/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/vitorhadp/" target="_blank">
